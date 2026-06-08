@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<FindBugsFilter>
+    <Match>
+        <Priority>2</Priority>
+    </Match>
+
+    <Match>
+        <Priority>1</Priority>
+    </Match>
+
+    <Match>
+        <Bug pattern="PREVIEW_FEATURE" />
+    </Match>
+</FindBugsFilter>
